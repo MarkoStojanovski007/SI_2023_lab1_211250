@@ -1,0 +1,42 @@
+
+Marko's Laptop@DESKTOP-C7D6RJO MINGW64 ~/Desktop/SI_2023_lab1_211250 (master)
+$ git log
+
+commit 11f9e863dd19f8021647a0460fffa53fd0f259a8 (origin/bug3, bug3)
+Author: Marko_Stojanovski <stojanovskimarko@live.com>
+Date:   Fri Mar 17 10:43:44 2023 +0100
+
+    Fix method sumEvenNumbers
+
+commit 3fdf3388d22bb7fb20a77824b99edb005205bed8
+Merge: d39c7c5 a7713dc
+Author: Marko_Stojanovski <stojanovskimarko@live.com>
+Date:   Fri Mar 17 10:57:14 2023 +0100
+
+    Merge branch 'bug2'
+    Merging bug2 to master
+
+commit a7713dc17605603fd34cde09500cc5ba4b91d9a0 (origin/bug2, bug2)
+Author: Marko_Stojanovski <stojanovskimarko@live.com>
+Date:   Fri Mar 17 10:42:04 2023 +0100
+
+    Fix wrong condition in filterOddNumbers
+
+commit d39c7c5bcfe88f77a5c75e1b3a928121d8d9511a (origin/bug1, bug1)
+Author: Marko_Stojanovski <stojanovskimarko@live.com>
+Date:   Fri Mar 17 10:39:21 2023 +0100
+
+    Fix wrong loop for reading
+
+commit 29e42ce39b43555567cee7ed94c8b80deefc556f
+Author: Marko_Stojanovski <stojanovskimarko@live.com>
+Date:   Fri Mar 17 10:21:45 2023 +0100
+
+    Add java class
+
+commit 4003f0354c6f095b804ac6b2528067eb7ff5c931
+Author: Marko_Stojanovski <stojanovskimarko@live.com>
+Date:   Fri Mar 17 09:59:12 2023 +0100
+
+    Initial commit
+(END)

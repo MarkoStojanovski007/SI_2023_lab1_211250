@@ -1,0 +1,31 @@
+4.Kreirav folder na desktop, i so pomos na komandna linija vlegov vo toj folder i go inicijalizirav git vo toj folder
+taka sto ja pisav (git init).
+5.git remote add origin https://github.com/MarkoStojanovski007/SI_2023_lab1_211250.git  .
+6.Dodadov so pomos na (notepad README.md) i napisav ime,prezime i broj indeks.
+So pomos na (git add README.md). So commit -m "porakata" go comitnav.
+7.Na Intellij preku Desktop go otvoriv folderot SI_2023_lab1_211250 i otvoriv nova java klasa so dadenoto ime od labsot.
+Go kopirav od vasiot link kodot i samo go pastnav na Intellij. Pa so add SILab1.java i na kraj napraviv commit so dadenata poraka"Add java class".
+8.git push -u origin master.
+9.Gi otvarav site granki so pomosh na (git branch):bug1,bug2 i bug3.
+10.Se prefrliv so git checkout bug1.
+11.Bese <= a treba samo <. Go srediv toa, go adnav i na kraj comitnav porakata "Fix wrong loop for reading".
+12.Se prefrliv so git checkout bug2.
+13.Ja srediv greskata namesto %==0 staviv %!=0, potoa go adnav i ja comitnav porakata "Fix wrong condition in filterOddNumbers".
+14.Se prefrliv so git checkout bug3.
+15.Namesto *= , staviv +=, potoa go adnav i ja comitnav porakata "Fix method sumEvenNumbers".
+16.So git push --all gi sinhronizirav site granki do sega.
+17.Se prefrliv so (git checkout master).
+18.Ja spoiv so pomosh na (git merge bug1).
+19.git push -u origin master 
+20.git merge bug2, kade sto imase konflikt i se razreshi konfliktot taka sto se spoija grankite rekurzivno.
+21.git push -u origin master.
+22.Se prefrliv so (git checkout bug3).
+23.Napraviv rebase so pomosh na (git rebase master).
+24.Se vrativ na master so (git checkout master).
+25.Ja spoiv bug3 kon master so (git merge bug3).
+26. git push --all --force
+27.Sozdadov datoteka logs.txt so pomos na (notepad 211250.txt) kade ke vodam dokumentacija za srabotenoto.
+So pomosh na (git add 211250.txt) go adnav i ja comitnav porakata "Final commit".
+28.Sinhroniziranje so (git push --all).
+
+ 
